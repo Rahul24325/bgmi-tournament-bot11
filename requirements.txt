@@ -2,3 +2,6 @@ aiogram
 motor
 pymongo
 python-dotenv
+python-telegram-bot==20.8
+motor
+pymongo
